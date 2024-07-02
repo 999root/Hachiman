@@ -1,3 +1,8 @@
+
+#
+# This script is only for windows
+#
+
 import subprocess
 import os
 import psutil
