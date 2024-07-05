@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="498"src="https://i.pinimg.com/originals/40/07/4a/40074ab66409266ab72df768ac812466.gif">
+  <img width="900" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ab6bea7-6934-4b16-b001-5b494af04fbe/dfyb5mq-98685105-0c93-462b-a132-84d2ba083304.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhYjZiZWE3LTY5MzQtNGIxNi1iMDAxLTViNDk0YWYwNGZiZVwvZGZ5YjVtcS05ODY4NTEwNS0wYzkzLTQ2MmItYTEzMi04NGQyYmEwODMzMDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8ZQtVMzkQ3Bt1jStZQLeO9eR9mOiMwoc2-QivHvnJLA">
 </div>
 <h1 align="center">Hachiman</h1>
 Blue team library.
